@@ -1,0 +1,24 @@
+.flex{
+    display: flex;
+}
+.flex-column{
+    flex-direction: column;
+}
+.align-center{
+    align-items: center;
+}
+.justify-center{
+    justify-content: center;
+}
+.color-grey{
+    color:#555;
+}
+.m-1{
+    margin: 1rem;
+}
+.p-2{
+    padding: 2rem;
+}
+.err{
+    border:1px solid red;
+}
